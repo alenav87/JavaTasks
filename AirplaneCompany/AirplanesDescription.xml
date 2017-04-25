@@ -1,0 +1,39 @@
+<airplane>
+    <model>
+        <modelname>Boeing747_300</modelname>
+        <description> The Boeing 747-300 is an American wide-body commercial jet airliner and cargo aircraft, often referred
+            to by its original nickname, Jumbo Jet. Its distinctive "hump" upper deck along the forward part of the aircraft
+            makes it among the world's most recognizable aircraft,[6] and it was the first wide-body produced. </description>
+    </model>
+    <model>
+        <modelname>Boeing747_400</modelname>
+        <description> The Boeing 747-400 is an improvement of the 747-300, and is the best-selling model
+            of the Boeing 747 family of jet airliners. While retaining the four-engine wide-body layout of its
+            predecessors, the 747-400 embodies numerous technological and structural changes to produce a more efficient airframe.
+            Its most distinguishing features versus preceding 747 models are 6-foot (1.8 m) winglets mounted on 6-foot (1.8 m) wing
+            tip extensions,which are found on all 747-400s except for Japanese domestic market versions. </description>
+    </model>
+    <model>
+        <modelname>Boeing747_8</modelname>
+        <description> The Boeing 747-8 is a wide-body jet airliner developed by Boeing Commercial Airplanes. Officially announced
+            in 2005, the 747-8 is the third generation of the 747, with a lengthened fuselage, redesigned wings, and improved efficiency.
+            The 747-8 is the largest 747 version, the largest commercial aircraft built in the United States, and the longest passenger
+            aircraft in the world.</description>
+    </model>
+    <model>
+        <modelname>Airbus_A380_800</modelname>
+        <description>The Airbus A380 is a double-deck, wide-body, four-engine jet airliner manufactured by European manufacturer Airbus.
+            It is the world's largest passenger airliner, and the airports at which it operates have upgraded facilities to accommodate it.
+            It was initially named Airbus A3XX and designed to challenge Boeing's monopoly in the large-aircraft market. The A380 made its
+            first flight on 27 April 2005 and entered commercial service on 25 October 2007 with Singapore Airlines.</description>
+    </model>
+    <model>
+        <modelname>Airbus_A320</modelname>
+        <description>The Airbus A320 family consists of short- to medium-range, narrow-body, commercial passenger twin-engine jet airliners
+            manufactured by Airbus. The family includes the A318, A319, A320 and A321, as well as the ACJ business jet. </description>
+    </model>
+    <model>
+        <modelname>Airbus_A330_300</modelname>
+        <description>The Airbus A330 is a medium- to long-range wide-body twin-engine jet airliner made by Airbus, a division of Airbus Group. </description>
+    </model>
+</airplane>
