@@ -5,6 +5,7 @@ import java.lang.String;
 import CalculatorMethods.CalcOperationMethods;
 //changes for test commit one
 // changes for test commit two
+//changes for the third commit
 /**
  * Created by alena_valasevich on 3/24/17.
  */
