@@ -3,6 +3,7 @@ package Main;
 import java.util.Scanner;
 import java.lang.String;
 import CalculatorMethods.CalcOperationMethods;
+//changes for test commit one
 
 /**
  * Created by alena_valasevich on 3/24/17.
