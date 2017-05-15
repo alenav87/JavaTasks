@@ -6,6 +6,8 @@ import CalculatorMethods.CalcOperationMethods;
 //changes for test commit one
 // changes for test commit two
 //changes for the third commit
+
+//branch commit one
 /**
  * Created by alena_valasevich on 3/24/17.
  */
