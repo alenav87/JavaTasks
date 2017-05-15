@@ -8,6 +8,7 @@ import CalculatorMethods.CalcOperationMethods;
 //changes for the third commit
 
 //branch commit one
+//branch commit two
 /**
  * Created by alena_valasevich on 3/24/17.
  */
